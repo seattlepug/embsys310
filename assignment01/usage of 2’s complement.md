@@ -1,0 +1,1 @@
+My first impression in general is that we need some special way to document negative number, as for computer, negative number “does not make sense”. But there are still other ways to capture negative number in computer/embedded systems, the reason why Two’s complement approach works, or even works better than other approaches is its simplicity in implementation. 
